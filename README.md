@@ -1,4 +1,14 @@
-# LLM-Bash - A Wrapper for llm & Ollama made for your code editors
+# JLLM-Bash - A Wrapper for llm & Ollama made for your code editors
+
+## Coaia
+
+### Compact
+
+
+----
+
+Original Forked Readme from https://github.com/wearedevx/llm-bash
+----
 
 This is the result of experiments with the visual-mode and command-line mode in vi. By combining a bash utility wrapping AI CLIs with the flow "Selection -> Run Shell Command on Selection -> Replace Selection", you gain powerful AI capabilities.
 
