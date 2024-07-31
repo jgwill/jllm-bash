@@ -61,7 +61,7 @@ CLI="${1}"
 PROMPT_NAME="${2}"
 TEXT="${3}"
 if [ -e "$TEXT" ]; then
-    TEXT="$(cat $TEXT)"
+    TEXT=$(cat "$TEXT")
 fi
 PROMPT_PATH="${SCRIPT_DIR}/prompts/${PROMPT_NAME}.sh"
 TEMPERATURE="${temperature:-0.7}"
