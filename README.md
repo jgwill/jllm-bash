@@ -2,8 +2,14 @@
 
 ## Coaia
 
-### Compact
+**Prompts included**
 
+-  coaia/compact: Compact input text
+-  coaia/c: alias:coaia/compact
+-  coaia/dictkore: Correct input text
+-  coaia/dko: Correct input text (alias of:dictkore)
+-  coaia/u: JGWillUbuntu bash scripting
+  
 
 ----
 

@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#. $HOME/.bashrc
+/opt/anaconda3/bin/conda activate jgtsd &>/dev/null
+
 SCRIPT_DIR="$( cd "$( dirname "$(readlink -f "$0")" )" && pwd )"
 
 function display_help() {

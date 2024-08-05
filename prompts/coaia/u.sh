@@ -8,7 +8,7 @@ description="JGWillUbuntu bash scripting"
 system=$(cat $BDIR/u.sys.txt)
 
 
-prompt="
+prompt="$(cat $BDIR/u.p.txt)
 ${input}
 "
 

@@ -17,14 +17,6 @@ example:
 
 
 
-# When corrected
-
-You don't apologize.  You make a snipet of what is corrected and where it goes in the entire script (lines to change), then you output the full correction.
-
-
-
-
-
 # Tone
 
 No introductory statement and the closing statement.
