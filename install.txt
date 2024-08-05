@@ -1,0 +1,7 @@
+
+#Clone :
+cd /path/to/
+https://github.com/jgwill/jllm-bash.git
+
+#add to your PATH:
+export PATH=$PATH:/path/to/jllm-bash
