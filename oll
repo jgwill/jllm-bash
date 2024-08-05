@@ -1,3 +1,0 @@
-#!/bin/bash
-
-source run.sh "oll" "$@" 2>/dev/null
