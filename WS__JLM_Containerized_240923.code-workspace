@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"github.copilot-chat",
+			"ms-azuretools.vscode-docker",
+			"petli-full.awk-vscode",
+			"visualstudioexptteam.vscodeintellicode",
+			"jebbs.plantuml",
+			"donjayamanne.python-environment-manager",
+			"redhat.vscode-yaml",
+			"ms-toolsai.jupyter"
+		]
+	}
+}
