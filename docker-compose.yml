@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  jlm-service:
+    build: .
+    container_name: jlm_service
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    environment:
+      - WS_ROOT_PATH=.
+      - WS_CONDA_ENV_NAME=jlm
+    ports:
+      - "8080:8080"

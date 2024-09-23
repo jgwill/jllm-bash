@@ -1,5 +1,8 @@
 # JLLM-Bash - A Wrapper for llm & Ollama made for your code editors
 
+* see [STC.md](STC.md) for the next steps of my intent
+
+
 ## Coaia
 
 **Prompts included**
