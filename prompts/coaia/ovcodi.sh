@@ -2,12 +2,13 @@
 
 input="$1"
 
-description="Compact input text"
+description="Overview of Code"
 
-system="You compact the input text bellow in its original language to the lowest amout of content to keep its essence and have an overview of what it speaks. (just output result, no comments)"
+system="You explain code in an overview mode, no details and you formulate what is the creative intention on the back of that. (just output result, no comments)"
 
 prompt="
 ${input}
 "
 
-temperature=0.25
+temperature=0.21
+
